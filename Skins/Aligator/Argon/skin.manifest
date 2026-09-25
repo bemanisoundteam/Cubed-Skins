@@ -1,0 +1,14 @@
+[Marker]
+Type = Animation
+TapAtFrame = 60
+ApproachFrameCount = 96
+JudgementFrameCount = 64
+
+[CellGlow]
+Type = Texture
+
+[Receptor]
+Type = Texture
+
+[Indicator]
+Type = Texture
