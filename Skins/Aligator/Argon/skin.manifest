@@ -2,7 +2,7 @@
 Type = Animation
 TapAtFrame = 60
 ApproachFrameCount = 96
-JudgementFrameCount = 64
+JudgementFrameCount = 30
 
 [CellGlow]
 Type = Texture
